@@ -86,7 +86,7 @@ def plus(cpm):
 
 
 men_kcal()
-
+women_kcal()
 
 
 
